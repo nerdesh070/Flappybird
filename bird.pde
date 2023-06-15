@@ -1,6 +1,8 @@
 class Bird {
   float x;
   float y;
+  float t;
+  var x, y;
   float size = 40;
   float vy = 0;
   float ay = 0.2;
